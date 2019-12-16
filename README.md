@@ -19,6 +19,11 @@ Nathan
 - https://www.abcbac.com/
 - nathan.fr/equipage -> https://enseignants.nathan.fr/collection/equipage/
 
+Hachette
+---
+
+- https://www.parascolaire.hachette-education.com/
+
 Plus de sites
 ---
 
