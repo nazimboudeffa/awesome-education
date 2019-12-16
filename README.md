@@ -1,5 +1,10 @@
 # Awsome School
 
+Manuels scolaires
+---
+
+- https://www.manuelnumerique.com
+
 Hatier
 ---
 
@@ -37,8 +42,3 @@ Plus de sites
 - https://www.superprof.fr/ +YT
 - https://www.digischool.fr/ +YT
 - https://www.lumni.fr/
-
-Manuels scolaires
----
-
-- https://www.manuelnumerique.com
