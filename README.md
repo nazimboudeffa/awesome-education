@@ -25,6 +25,11 @@ Hachette
 
 - https://www.parascolaire.hachette-education.com/
 
+Belin
+---
+
+- http://www.libtheque.fr/
+
 Plus de sites
 ---
 
