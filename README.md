@@ -42,3 +42,8 @@ Plus de sites
 - https://www.digischool.fr/ +YT
 - https://www.kartable.fr
 - https://www.lumni.fr/
+
+Algérie
+---
+
+- http://kitabbi.com/
