@@ -46,6 +46,6 @@ Plus de sites
 Algérie
 ---
 
-- http://kitabbi.com/
+- http://kitabbi.com/ -> http://manuels-anciens.com
 - https://elbassair.net/
 - https://imadrassa.com ?
