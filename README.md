@@ -1,4 +1,4 @@
-# Awsome School
+# Awsome Education
 
 Manuels scolaires
 ---
