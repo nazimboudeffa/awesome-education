@@ -42,6 +42,7 @@ Plus de sites
 - https://www.digischool.fr/ +YT
 - https://www.kartable.fr
 - https://www.lumni.fr/
+- https://www.educarte.fr/
 
 Algérie
 ---
